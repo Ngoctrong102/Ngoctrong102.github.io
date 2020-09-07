@@ -26,7 +26,7 @@ body {
 .btn {
     display: flex;
     justify-content: space-around;
-    width: 600px;
+    width: 60vw;
 }
 
 .btn button {
